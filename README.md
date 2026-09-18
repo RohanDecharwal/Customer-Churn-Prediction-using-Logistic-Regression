@@ -1,4 +1,3 @@
-# AI-ML Assignment – 2
 ## Customer Churn Prediction using Logistic Regression
 
 ### 👨‍🎓 Student Details
@@ -79,8 +78,8 @@ This project demonstrates the use of Logistic Regression for customer churn pred
 ## 📁 Repository Structure
 
 ```
-Assignment-2/
-│── Assignment_2.ipynb
+Customer Churn Prediction using Logistic Regression/
+│── Customer Churn Prediction using Logistic Regression.ipynb
 │── README.md
 ```
 
